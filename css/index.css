@@ -1,0 +1,28 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+body{
+    background-color: yellow;
+}
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+img{
+    width: 25%;
+    margin-left: 37%;
+    margin-right: 25%;
+    margin-top: 1%;
+}
+iframe{
+    width: 25%;
+    margin-left: 37%;
+    margin-right: 25%;
+    margin-top: 1%;
+    margin-bottom: 5%; 
+}
